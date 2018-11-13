@@ -54,6 +54,7 @@ export class AppComponent {
   }
 }
 ```
+<embed src="https://stackblitz.com/edit/download-csv-shift-jis?embed=1&file=src/app/app.component.ts&view=preview" style="width:100%; height:500px;"/>
 
 ## Link
 [https://giai-ma.blogspot.com/2018/02/javascript-download-csv-shift-jis.html](https://giai-ma.blogspot.com/2018/02/javascript-download-csv-shift-jis.html)
